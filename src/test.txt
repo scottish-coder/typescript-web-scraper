@@ -1,0 +1,1 @@
+document.querySelector("body > main > div > section.ranking.classements > div > div > div.js-tabs-wrapper.js-tabs-bigwrapper > div > div > div > div > div.js-spinner-wrapper > div > div.sticky-scroll > table > tbody > tr:nth-child(1) > td:nth-child(5)")
